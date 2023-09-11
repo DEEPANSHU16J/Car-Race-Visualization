@@ -1,1 +1,2 @@
 # Car-Race-Visualization
+"Created a dashboard for comparing two racing cars, incorporating animation through a convenient custom visual known as the "play axis". We have explored various methods for animating dashboards using SQL. Whether you want to display real-time data or historical data animations, the SQL method works excellently. However, you will discover that SQL isn't always necessary, especially when dealing with historical data. For animating a small amount of data, we can use the play axis, which can be easily downloaded from the Microsoft Store."
